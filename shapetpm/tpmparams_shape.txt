@@ -1,0 +1,18 @@
+prot: 4.108716
+lonpol: 332.32
+latpol: 20.67
+emis: 0.9
+nzstep: 5
+ntrot: 1080
+nrot: 20
+kappa: 1.e5
+lam: 3.3526 4.6028 11.0984 22.6405
+Semis: 0.9 0.9 0.9 0.9
+jansky: 1
+rad: 1.
+R: 1.080021090815
+D: 0.195605103993
+heclon: 169.0117
+heclat: 3.6291
+oeclon: 110.1713673
+oeclat: 20.4642248
