@@ -1,0 +1,13 @@
+aorb: 1.078
+eorb: 0.827
+A: 0.125
+emis: 0.9
+obliquity: 0.0
+solstice: 0.0
+period: 2.2726
+nxstep: 10
+ntrot: 1200
+orbits: 4
+nlat: 5
+ti: 500
+kappa: 5.e-5
