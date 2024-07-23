@@ -1,0 +1,7 @@
+theta: 2.
+sslat: 0.0
+sslon: 0.0
+nlat: 13.
+ntrot: 720
+nzstep: 5
+nrot: 20

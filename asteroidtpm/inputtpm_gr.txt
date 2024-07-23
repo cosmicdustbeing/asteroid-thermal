@@ -1,0 +1,10 @@
+A: 0.1
+theta: 0.5
+sslat: 30.0
+sslon: 0.0
+nring: 4
+cr_angle: 68.
+nzstep: 8
+ntrot: 720
+nrot: 20
+nlat: 13
